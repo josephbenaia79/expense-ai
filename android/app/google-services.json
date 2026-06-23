@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "21742878040",
+    "project_id": "expense-ai-229de",
+    "storage_bucket": "expense-ai-229de.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21742878040:android:b730a1342414ee9065792d",
+        "android_client_info": {
+          "package_name": "com.Benaianet.Expense"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21742878040-tcni97l334uh6msstuhh990olr0j4bv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXQ9TPLFqOskogfrTBwYHG3GsrP1TW78M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21742878040-tcni97l334uh6msstuhh990olr0j4bv3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "21742878040-94n8l152ckvmbrtmbfosshtiv6o2brb0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Benaianet.expense"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21742878040:android:97c5ee4c7cf2472365792d",
+        "android_client_info": {
+          "package_name": "com.example.expense_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21742878040-tcni97l334uh6msstuhh990olr0j4bv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXQ9TPLFqOskogfrTBwYHG3GsrP1TW78M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21742878040-tcni97l334uh6msstuhh990olr0j4bv3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "21742878040-94n8l152ckvmbrtmbfosshtiv6o2brb0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Benaianet.expense"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
